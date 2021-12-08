@@ -3,8 +3,11 @@
 
 # Database
    http://localhost:8080/
+   
    User/Pass: root/root
+   
    Add Database : company
+   
    Add table : users(id,name)
 
 # Run 
